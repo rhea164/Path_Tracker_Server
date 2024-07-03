@@ -39,25 +39,25 @@ The server will run on port 3001.
 ## Usage
 • <b>Sign Up:</b>
 
-Endpoint: /signup
-Method: POST
-Body: { "email": "user@example.com", "password": "password123" }
+Endpoint: /signup<br>
+Method: POST<br>
+Body: { "email": "user@example.com", "password": "password123" }<br><br>
 
 • <b>Sign In:</b>
 
-Endpoint: /signin
-Method: POST
-Body: { "email": "user@example.com", "password": "password123" }
+Endpoint: /signin<br>
+Method: POST<br>
+Body: { "email": "user@example.com", "password": "password123" }<br><br>
 
 • <b>Get User Tracks:</b>
 
-Endpoint: /tracks
-Method: GET
-Headers: { "Authorization": "Bearer <token>" }
+Endpoint: /tracks<br>
+Method: GET<br>
+Headers: { "Authorization": "Bearer <token>" }<br><br>
 
 • <b>Add a Track:</b>
 
-Endpoint: /tracks
-Method: POST
-Headers: { "Authorization": "Bearer <token>" }
-Body: { "name": "Morning Run", "locations": [...] }
+Endpoint: /tracks<br>
+Method: POST<br>
+Headers: { "Authorization": "Bearer <token>" }<br>
+Body: { "name": "Morning Run", "locations": [...] }<br>
