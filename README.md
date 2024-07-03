@@ -20,7 +20,7 @@ Backend server for the Path Tracker application, featuring secure user authentic
 
 ## Setup and Installation
 • <b>Clone the repository:</b>
-git clone https://github.com/your-username/PathTrackerServer.git
+git clone [https://github.com/your-username/PathTrackerServer.git](https://github.com/rhea164/Path_Tracker_Server.git)
 
 • <b>Navigate to the project directory:</b>
 cd PathTrackerServer
