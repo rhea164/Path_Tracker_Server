@@ -23,7 +23,7 @@ Backend server for the Path Tracker application, featuring secure user authentic
 git clone https://github.com/rhea164/Path_Tracker_Server.git
 
 • <b>Navigate to the project directory:</b>
-cd PathTrackerServer
+cd Path_Tracker_Server
 
 • <b>Install dependencies:</b>
 npm install
