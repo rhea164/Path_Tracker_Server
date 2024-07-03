@@ -3,20 +3,20 @@
 Backend server for the Path Tracker application, featuring secure user authentication and efficient track management. Built with Express.js and MongoDB, it ensures a seamless and secure experience for users.
 
 ## Features
- • <b>Secure User Authentication:</b> Utilizes JSON Web Tokens (JWT) for secure sign-up and sign-in.
- • <b>Robust Data Management:</b> Mongoose schemas for Users and Tracks, ensuring personalized data retrieval.
- • <b>Comprehensive API:</b> RESTful endpoints for user and track management, protected by authentication middleware.
- • <b>Password Security:</b> bcrypt for hashing passwords securely.
- • <b>Efficient Queries:</b> Optimized performance with efficient MongoDB queries.
- • <b>Error Handling:</b> Detailed error messages and status codes for smooth user interaction.
+ • <b>Secure User Authentication:</b> Utilizes JSON Web Tokens (JWT) for secure sign-up and sign-in.<br>
+ • <b>Robust Data Management:</b> Mongoose schemas for Users and Tracks, ensuring personalized data retrieval.<br>
+ • <b>Comprehensive API:</b> RESTful endpoints for user and track management, protected by authentication middleware.<br>
+ • <b>Password Security:</b> bcrypt for hashing passwords securely.<br>
+ • <b>Efficient Queries:</b> Optimized performance with efficient MongoDB queries.<br>
+ • <b>Error Handling:</b> Detailed error messages and status codes for smooth user interaction.<br>
 
 ## Technologies Used
- • Node.js
- • Express.js
- • MongoDB
- • Mongoose
- • JWT
- • bcrypt
+ • Node.js<br>
+ • Express.js<br>
+ • MongoDB<br>
+ • Mongoose<br>
+ • JWT<br>
+ • bcrypt<br>
 
 ## Setup and Installation
 • <b>Clone the repository:</b>
